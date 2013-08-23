@@ -62,10 +62,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.tpl.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="about.tpl.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/about/about.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="113" column="54" selection-start="4948" selection-end="4948" vertical-scroll-proportion="0.50877196">
+            <state line="113" column="54" selection-start="4948" selection-end="4948" vertical-scroll-proportion="-18.961538">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="52" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="75" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.3081571">
               <folding />
             </state>
           </provider>
@@ -457,7 +475,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/about/about.tpl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="113" column="54" selection-start="4948" selection-end="4948" vertical-scroll-proportion="0.50877196">
+        <state line="113" column="54" selection-start="4948" selection-end="4948" vertical-scroll-proportion="-18.961538">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="52" selection-start="793" selection-end="793" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="75" selection-start="1084" selection-end="1084" vertical-scroll-proportion="0.3081571">
           <folding />
         </state>
       </provider>

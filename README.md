@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [ngBoilerplate](http://joshdmiller.github.com/ng-boilerplate) [![Build Status](https://travis-ci.org/joshdmiller/ng-boilerplate.png?branch=master)](https://travis-ci.org/joshdmiller/ng-boilerplate)
 
 An opinionated kickstarter for [AngularJS](http://angularjs.org) projects.
@@ -379,3 +380,9 @@ of you!
 
 So join the team! We're good people.
 
+=======
+VetAssistCare
+=============
+
+Veterans Assisted Care web site
+>>>>>>> 459bf881b15ad89b7e30d6c0ec10285c8e41ae29
